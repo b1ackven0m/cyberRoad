@@ -1,0 +1,2 @@
+The work of Google’s security teams mostly happens behind closed doors — whether that be intercepting government backed cyber attacks, or taking on the job of hacking Google to strengthen our defenses. But today, we’re taking you behind the scenes with HACKING GOOGLE, a new six-part docuseries featuring the elite security teams that keep you safe everyday.
+[Link](https://blog.google/technology/safety-security/meet-the-hackers-keeping-you-safe-online/)
