@@ -1,5 +1,4 @@
-# Cybersecurity-Youtube Channels
-A collection of list of Best Cybersecurity Youtube Channels I have came across and found useful so far
+# Channels
 1. [InsiderPHD](https://www.youtube.com/c/InsiderPhD)
 2. [Rana Khalil](https://www.youtube.com/c/RanaKhalil101)
 3. [Spin the hack](https://www.youtube.com/c/SpinTheHack)
