@@ -15,16 +15,6 @@
 * [SANS Cyber Aces](https://tutorials.cyberaces.org/) – video tutorials with handouts and quizzes
 * [Teaching Security](https://teachingsecurity.org/) – ready-made materials for classrooms
 
-## lists
-
-* [Awesome Security List](https://github.com/sindresorhus/awesome#security) – a major list on everything security-related
-* [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
-* [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
-* [TeachCyber](https://teachcyber.tk/) – a list of free online resources
-* [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
-
-
-
 ## Online training and challenges
 
 * [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
@@ -38,3 +28,17 @@
 * [Root Me](https://www.root-me.org) – challenges to practice hacking skills
 * [Secure Code Warrior](https://portal.securecodewarrior.com/#/intro-splash) – security learning resources and challenges
 * [Wargames](http://overthewire.org/wargames/) – games for practicing hacking skills
+
+
+
+
+
+## lists
+
+* [Awesome Security List](https://github.com/sindresorhus/awesome#security) – a major list on everything security-related
+* [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
+* [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
+* [TeachCyber](https://teachcyber.tk/) – a list of free online resources
+* [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
+
+
