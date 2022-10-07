@@ -25,7 +25,7 @@
 
 
 
-## Online training grounds and practice challenges
+## Online training and challenges
 
 * [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
 * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – a PHP/MySQL web application containing various vulnerabilities
