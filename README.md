@@ -25,7 +25,7 @@
 * [Teaching Security](https://teachingsecurity.org/) – ready-made materials for classrooms
 
 ## Online training and challenges
-
+* [picoCTF](https://picoctf.org/) - a free computer security education program for beginners with original content built on a capture-the-flag framework created by security and privacy experts 
 * [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
 * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – a PHP/MySQL web application containing various vulnerabilities
 * [Exploit Exercises](https://exploit-exercises.com/) – virtual machines and challenges to practice security exploits
