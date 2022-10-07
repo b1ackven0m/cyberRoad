@@ -1,6 +1,6 @@
 # General Linux
 
-- [Linux in 100 Seconds] (https://www.youtube.com/watch?v=rrB13utjYV4)
+- [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4)
 - [Linux distro explained](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
 - [Linux for ethical hacking](https://www.youtube.com/watch?v=lZAoFs75_cs)
 ## CLI (Command Line Interface):
