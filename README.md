@@ -1,11 +1,14 @@
 # cyberRoad
 [So, you want to work in security?](https://www.freecodecamp.org/news/so-you-want-to-work-in-security-bc6c10157d23/)
 
-# Map 
+# Map (To navigate inside this repo)
 * [Linux](https://github.com/b1ackven0m/cyberRoad/blob/main/0-Linux/linux.md)
 * [Yotube Resources](https://github.com/b1ackven0m/cyberRoad/blob/main/0-YouTube_Resources/yt.md)
 * [Cryptography](https://github.com/b1ackven0m/cyberRoad/blob/main/1-Cryptography/crypto.md)
 * [Reverse Engineering](https://github.com/b1ackven0m/cyberRoad/blob/main/2-Reverse_Engineering/reverseeng.md)
+* [Binary Exploitation "PWN"](https://github.com/b1ackven0m/cyberRoad/blob/main/3-Binary_Exploitation/pwn.md)
+* [Forensics](https://github.com/b1ackven0m/cyberRoad/blob/main/4-Forensics/foren.md)
+* [Web](https://github.com/b1ackven0m/cyberRoad/blob/main/5-Web/web.md)
 ## Online courses and materials
 
 * [Cybrary](https://www.cybrary.it/) – free online security courses
